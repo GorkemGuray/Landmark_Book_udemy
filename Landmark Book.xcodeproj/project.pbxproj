@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DE8988482A8C1E3E00EE4D1B /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE8988472A8C1E3E00EE4D1B /* DetailsViewController.swift */; };
 		DE90D87D2A8972C7000B29DE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE90D87C2A8972C7000B29DE /* AppDelegate.swift */; };
 		DE90D87F2A8972C7000B29DE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE90D87E2A8972C7000B29DE /* SceneDelegate.swift */; };
 		DE90D8812A8972C7000B29DE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE90D8802A8972C7000B29DE /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DE8988472A8C1E3E00EE4D1B /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 		DE90D8792A8972C7000B29DE /* Landmark Book.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Landmark Book.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE90D87C2A8972C7000B29DE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DE90D87E2A8972C7000B29DE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				DE90D8852A8972C9000B29DE /* Assets.xcassets */,
 				DE90D8872A8972C9000B29DE /* LaunchScreen.storyboard */,
 				DE90D88A2A8972C9000B29DE /* Info.plist */,
+				DE8988472A8C1E3E00EE4D1B /* DetailsViewController.swift */,
 			);
 			path = "Landmark Book";
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				DE90D8812A8972C7000B29DE /* ViewController.swift in Sources */,
 				DE90D87D2A8972C7000B29DE /* AppDelegate.swift in Sources */,
 				DE90D87F2A8972C7000B29DE /* SceneDelegate.swift in Sources */,
+				DE8988482A8C1E3E00EE4D1B /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
